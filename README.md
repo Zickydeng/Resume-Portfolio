@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Elijah's Resume portfolio
+## live https://resumportfolio.herokuapp.com/
+
+This is my favorite resume portfolio put together using Reactjs
+
+![Zicky-resume heroku-app](zicky-resume.png?raw=true "Zicky-resume heroku-app")
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
