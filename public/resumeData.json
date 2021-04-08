@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Elijah A Deng",
+    "occupation": "Frontend React Developer",
+    "description": "There is nothing more satisfying than achieving a project work using React",
+    "image": "zicky.png",
+    "bio": "My name is Elijah A Deng (Zicky), I'm an accomplished frontend React developer with extensive experiences working in React development environment, an avid learner who is passionate about web technology, a motivated individual who is highly-driven and very proactive, if I don’t know something, I'll learn it; prowess comes with practice. I'm an excellent communicator with a keen interest in making meaningful contributions to open source repositories and wanting to inspiring other programmers. I love the learning process and I've thus make it habitual. As the famous adage goes knowlodge is power, thus making learning a super power.",
+    "contactmessage": "Get in touch for a meaningful collaboration/contribution on your project/site developments: together we can make magic!",
+    "email": "elijah.deng@mail.utoronto.ca",
+    "phone": "+1 647 687 0403",
+    "address": {
+      "street": "1 Bloor Streer East",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M4W OA8"
+    },
+    "website": "https://zickydeng.github.io/",
+    "resumedownload": "https://zickydeng.github.io/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": " ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": " ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deng-elijah",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": " ",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Zickydeng",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency/skills level",
+    "education": [
+      {
+        "school": "University of Toronto St George, CA",
+        "degree": " Honours Bachelor's Degree, Geophysics/Physics Math minor",
+        "graduated": "June 2019",
+        "description": "Graduated with Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "University of Toronto",
+        "title": "Data Analyst/Lab Technician",
+        "years": "August 2019 - Present (part-time)",
+        "description": "The Jack-Satterly Geochronology Laboratory is at the forefront in the field of precise uranium-lead (U-Pb) dating. It is the birthplace of modern ID-TIMS (isotope dilution-thermal ionization mass spectrometry) methods. We specialize in obtaining ages (TIMS & ICP) with the highest accuracy and precision."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "99%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Tracker.app (React JS)",
+        "category": "",
+        "image": "covid-tracker.png",
+        "url": "https://covid-19-tracker-125cb.web.app/"
+      },
+      {
+        "title": "Amazon Clone/Ecommerce store (React JS)",
+        "category": "",
+        "image": "amazon-clone.png",
+        "url": "https://clone-13d42.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Netflix-clone.png",
+        "url": "https://netflix-clone-c2e76.web.app/"
+      },
+      {
+        "title": "Magenetism Thesis (Academic Project)",
+        "category": "",
+        "image": "magnetic.png",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0379073820302589?dgcid=author"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "arbnb-clone.png",
+        "url": "https://airbnb-clone-eb983.web.app/"
+      },
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify-demo.png",
+        "url": "https://github.com/Zickydeng/Spotify-clone-App"
+      },
+      {
+        "title": "Online portfolio resume",
+        "category": "",
+        "image": "e.resume.png",
+        "url": "https://zickydeng.github.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Elijah is absolutely excellent, his depth of knowledge in Frontend Development and single page app is awesomely amazing... I would definitely recommend",
+        "user": "Prof Carl-George Bank"
+      },
+      {
+        "text": "Elijah is an accomplished self-taught Frontend React developer with transferable skills set, an avid learner who continually demonstrates strong ability to solve technical problems diligently",
+        "user": "Sarah Finkelstein"
+      }
+    ]
+  }
+}
